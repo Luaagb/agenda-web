@@ -25,7 +25,7 @@ Uma ferramenta que combina as funcionalidades de um planner convencional com o a
 
 ## 📷 Capturas de tela
 
-
+![home](https://github.com/Luaagb/agenda-web/blob/main/image/home.png)
 
 ## 🛠️ Como rodar o projeto localmente
 
